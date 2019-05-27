@@ -1,5 +1,5 @@
 ## [JamStack Argon Design System](https://jamstack-argon-design.appseed.us)
-Designed by Creative-Tim, Coded as **JAMstack App** by [AppSeed App Generator](https://appseed.us/app-generator) 
+Designed by Creative-Tim, Coded as **JAMstack App**. Read more about [JamStack Argon Design](https://blog.appseed.us/jamstack-argon-design) app.
 
 ![JamStack Argon Design System](https://static.appseed.us/apps/argon-design/jamstack-argon-design.jpg)
 
