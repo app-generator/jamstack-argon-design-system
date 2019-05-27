@@ -20,7 +20,7 @@ Designed by Creative-Tim, Coded as **JAMstack App** by [AppSeed App Generator](h
 - `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
 
 ## JAMstack related Resources
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
+- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/) concept
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
 - A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)

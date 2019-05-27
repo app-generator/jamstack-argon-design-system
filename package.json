@@ -1,7 +1,7 @@
 {
-    "name": "simpllo",
+    "name": "argon-design-system",
     "version": "0.0.1",
-    "description": "Simpllo.com - Blazing fast, beautiful Websites",
+    "description": "Argon Design - JAMStack implementation",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -22,7 +22,7 @@
         "node": ">=0.10.1"
     },
     "scripts": {
-        "deploy": "gulp build && gulp zip && node deploy",
+        "deploy": "gulp build && node deploy",
         "zip": "gulp zip",
         "start": "gulp",
         "clean": "gulp clean",
@@ -30,13 +30,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/simpllowebsites/simpllo.com"
+        "url": "https://github.com/app-generator/argon-design-system"
     },
     "bugs": {
-        "url": "https://github.com/simpllowebsites/simpllo.com/issues",
-        "email": "support@simpllo.com"
+        "url": "https://github.com/app-generator/argon-design-system/issues",
+        "email": "support@appseed.us"
     },
-    "author": "Simpllo.com <support@simpllo.com> (https://simpllo.com)",
+    "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
     "license": "MIT",
     "private": false,
     "dependencies": {
