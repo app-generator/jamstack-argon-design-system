@@ -1,29 +1,38 @@
-## [JamStack Argon Design System](https://jamstack-argon-design.appseed.us)
-Designed by Creative-Tim, Coded as **JAMstack App**. Read more about [JamStack Argon Design](https://blog.appseed.us/jamstack-argon-design) app.
+# [JAMstack Argon Design](https://jamstack-argon-design.appseed.us)
 
-![JamStack Argon Design System](https://static.appseed.us/apps/argon-design/jamstack-argon-design.jpg)
+Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of [Argon Design](https://demos.creative-tim.com/argon-design/) design.
 
-## Product Information
-- Based on [Argon Design System](https://github.com/creativetimofficial/argon-design-system) Bootstrap / jQuery version. Designed by **Creative-Tim**
-- Enhancements, provided by **AppSeed**
-  - Enhanced tooling
-  - JAMstack integration - App generated statically via [Panini Static Generator](https://github.com/zurb/panini)
-  - Modular layout
-  - Live deployment script  
+<br />
+
+![JAMstack Argon Design - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-argon-design-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [JAMstack Argon Design demo](https://jamstack-argon-design.appseed.us/)
+
+<br />
 
 ## How to use it
-- Clone this repo `git clone https://github.com/app-generator/argon-design-system.git`
-- `cd argon-design-system`
+
+- Clone this repo `git clone https://github.com/app-generator/jamstack-argon-design.git`
+- change directory to `jamstack-argon-design`
 - `yarn` - install deps
 - `yarn start` - live edit
 - `yarn build` - build for production in directory `_site`
 - `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
 
-## JAMstack related Resources
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/) concept
+<br />
+
+## [JAMstack](https://jamstack.org/) resources
+
+- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
 - A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
 
+<br />
+
 ---
-Made with ♥ by [AppSeed](https://appseed.us?ref=github)
+[JAMstack Argon Design](https://jamstack-argon-design.appseed.us) - provided by **AppSeed**

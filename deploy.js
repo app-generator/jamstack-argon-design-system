@@ -2,9 +2,9 @@ var FtpDeploy = require('ftp-deploy');
 var ftpDeploy = new FtpDeploy();
  
 var config = {
-    user: "FTP_USER", 
-    password: "FTP_PASS",                            
-    host: "FTP_SERVER",
+    user:      "FTP_USER", 
+    password:  "FTP_PASS",                            
+    host:      "FTP_SERVER",
     port: 21,
     localRoot: __dirname + '/_site',
     remoteRoot: '/',

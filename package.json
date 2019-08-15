@@ -23,7 +23,6 @@
     },
     "scripts": {
         "deploy": "gulp build && node deploy",
-        "zip": "gulp zip",
         "start": "gulp",
         "clean": "gulp clean",
         "build": "gulp build"
