@@ -1,22 +1,17 @@
 {
-    "author"  : "AppSeed.us",
-    "email"   : "support@appseed.us",
+    "copy"           : "AppSeed. All rights reserved.", 
+    "email"          : "support@appseed.us",
+    "design"         : "Argon Design by Creative-Tim",
 
-    "links" : {
-        "blog-article"   : "https://blog.appseed.us/jamstack-argon-design",
-        "github"         : "https://github.com/app-generator/argon-design-system",
-        "github-data"    : "https://github.com/app-generator/argon-design-system/blob/master/src/html/data/data.json",
-        "appseed"        : "https://appseed.us?ref=landed",
-        "generator"      : "https://appseed.us/app-generator?ref=jamstack-argon-design",
-        "facebook"       : "https://facebook.com/webappseed",
-        "facebook-group" : "https://www.facebook.com/groups/fullstack.apps.generator/",
-        "twitter"        : "https://twitter.com/webappseed",
-        "instagram"      : "https://instagram.com/webappseed",
-        "discord"        : "https://discord.gg/fZC6hup",
-        "docs"           : "https://docs.appseed.us",
-        "blog"           : "https://blog.appseed.us",
-        "buy"            : "https://appseed.us/apps/static/panini/jamstack-argon-design"
-    }, 
+    "seo_title"      : "JAMstack App - Argon Design by Creative-Tim | AppSeed",
+    "seo_desc"       : "JAMstack app with Argon Design crafted by top Creative-Tim.",
+
+    "product"        : "https://github.com/app-generator/jamstack-argon-design-system", 
+    "github"         : "https://github.com/app-generator/jamstack-argon-design-system",
+    "facebook"       : "https://facebook.com/webappseed",
+    "twitter"        : "https://twitter.com/webappseed",
+    "support"        : "https://appseed.us/support",
+    "discord"        : "https://discord.gg/fZC6hup",
 
     "LAST_KEY" : "NA"
 }

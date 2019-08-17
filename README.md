@@ -16,8 +16,8 @@ Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on t
 
 ## How to use it
 
-- Clone this repo `git clone https://github.com/app-generator/jamstack-argon-design.git`
-- change directory to `jamstack-argon-design`
+- Clone this repo `git clone https://github.com/app-generator/jamstack-argon-design-system.git`
+- change directory to `jamstack-argon-design-system`
 - `yarn` - install deps
 - `yarn start` - live edit
 - `yarn build` - build for production in directory `_site`

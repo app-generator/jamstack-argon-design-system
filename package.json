@@ -1,7 +1,7 @@
 {
-    "name": "argon-design-system",
+    "name": "jamstack-argon-design-system",
     "version": "0.0.1",
-    "description": "Argon Design - JAMStack implementation",
+    "description": "JAMstack App - Argon Design by Creative-Tim",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
