@@ -8,20 +8,33 @@ Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on t
 
 <br />
 
-## App Links
+## Build from sources
+---
 
-- [JAMstack Argon Design demo](https://jamstack-argon-design.appseed.us/)
+```bash
+$ # clone the sources
+$ git clone https://github.com/app-generator/jamstack-argon-design-system.git
+$ cd jamstack-argon-design-system
+$
+$ # install modules
+$ yarn
+$
+$ # start the app in development mode
+$ yarn start
+$ # app is runing on http://localhost:8080/ 
+$
+$ # build the app for production
+$ yarn build
+$ # app is built in _site directory 
+```
 
 <br />
 
-## How to use it
+## App Links
+---
 
-- Clone this repo `git clone https://github.com/app-generator/jamstack-argon-design-system.git`
-- change directory to `jamstack-argon-design-system`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+- [JAMstack Argon Design](https://jamstack-argon-design.appseed.us/) - live demo
+- [JAMstack Argon Design](https://docs.appseed.us/apps/jamstack/jamstack-argon-design) - the product documentation
 
 <br />
 
