@@ -1,4 +1,4 @@
-# [JAMstack Argon Design](https://jamstack-argon-design.appseed.us)
+# [JAMstack Argon Design](https://appseed.us/apps/jamstack/jamstack-argon-design)
 
 Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of [Argon Design](https://demos.creative-tim.com/argon-design/) design.
 
@@ -48,4 +48,4 @@ $ # app is built in _site directory
 <br />
 
 ---
-[JAMstack Argon Design](https://jamstack-argon-design.appseed.us) - provided by **AppSeed**
+[JAMstack Argon Design](https://appseed.us/apps/jamstack/jamstack-argon-design) - provided by **AppSeed**
